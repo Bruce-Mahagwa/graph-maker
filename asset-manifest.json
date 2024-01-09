@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/graph-maker/static/css/main.f5f5bd52.css",
+    "main.js": "/graph-maker/static/js/main.ec632a39.js",
+    "static/js/787.613fd03c.chunk.js": "/graph-maker/static/js/787.613fd03c.chunk.js",
+    "static/media/loading.gif": "/graph-maker/static/media/loading.4c0dabf64bfe071965aa.gif",
+    "index.html": "/graph-maker/index.html",
+    "main.f5f5bd52.css.map": "/graph-maker/static/css/main.f5f5bd52.css.map",
+    "main.ec632a39.js.map": "/graph-maker/static/js/main.ec632a39.js.map",
+    "787.613fd03c.chunk.js.map": "/graph-maker/static/js/787.613fd03c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5f5bd52.css",
+    "static/js/main.ec632a39.js"
+  ]
+}
